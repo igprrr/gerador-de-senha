@@ -1,4 +1,3 @@
-#gerador de senha
 import random
 chars = 'abcdefghijklmnopqrstuvwxyz'
 chars += chars.upper()
